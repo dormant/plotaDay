@@ -1,6 +1,6 @@
 # plotaDay
 
-Scripts for plotting MVO data for *seismic_plot_viewer* using *miniseed* data.
+Scripts for plotting strain and VLP data for *seismic_plot_viewer* from *miniseed* data.
 
 
 ## plotaDay.py, plotaStrain.sh
