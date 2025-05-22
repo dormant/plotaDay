@@ -1,5 +1,7 @@
 # plotaDay
 
+## ~/src/plotaDay
+
 Scripts for plotting strain and VLP data for *seismic_plot_viewer* from *miniseed* data.
 
 

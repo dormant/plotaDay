@@ -11,4 +11,4 @@ cd /home/seisan/src/plotaDay
 ./plotaDay.py --date yesterday --sta AIRS --net MC --cha BLZ
 ./plotaDay.py --date today --sta TRNT --net MC --cha BLZ
 ./plotaDay.py --date yesterday --sta TRNT --net MC --cha BLZ
-mv *.png /mnt/mvofls2/Seismic_Data/monitoring_data/strain_plots/2024/
+mv *.png /mnt/mvofls2/Seismic_Data/monitoring_data/strain_plots/2025/
